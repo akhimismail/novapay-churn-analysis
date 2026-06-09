@@ -56,7 +56,7 @@ Eight business questions answered in PostgreSQL. Full queries in `/sql/churn_ana
 
 > Power BI dashboard covering executive KPIs, churn segmentation, CLV analysis, and retention recommendations.
 
-*(Screenshot — see `/dashboard/` folder)*
+![Dashboard](dashboard/dashboard_screenshot.png)
 
 ---
 
