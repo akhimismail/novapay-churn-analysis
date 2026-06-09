@@ -118,4 +118,4 @@ novapay-churn-analysis/
 
 This project was built as part of a data analyst portfolio sprint to demonstrate end-to-end analytics skills — from raw data to executive recommendations. The dataset was sourced from Kaggle and rebranded to simulate a real FinTech company scenario.
 
-**Connect:** [LinkedIn](www.linkedin.com/in/akhimismail)· [GitHub](https://github.com/akhimismail)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/akhimismail)· [GitHub](https://github.com/akhimismail)
