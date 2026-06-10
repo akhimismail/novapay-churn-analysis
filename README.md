@@ -95,8 +95,17 @@ novapay-churn-analysis/
 ├── sql/
 │   └── churn_analysis.sql
 ├── dashboard/
+│   ├── dashboard_screenshot.png
+│   ├── excel_chart.png
 │   ├── novapay_powerbi.pbix
-│   └── screenshots/
+│   ├── q1_churn_rate.PNG
+│   ├── q2_mmr_at_risk.PNG
+│   ├── q3_churn_by_contract.PNG
+│   ├── q4_churn_by_revenue.PNG
+│   ├── q5_churn_by_tenure.PNG
+│   ├── q6_churn_by_payment.PNG
+│   ├── q7_clv_by_contract.PNG
+│   └── q8_top_churned_customer.PNG
 └── README.md
 ```
 
