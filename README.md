@@ -7,9 +7,9 @@
 
 ## Business Problem
 
-NovaPay Financial Technologies is a digital payments startup serving 7,000+ customers across subscription-based financial products. The CFO flagged a potential revenue leak — churn was climbing but the team had no visibility into *who* was leaving, *why*, or *what it was costing the business*.
+NovaPay Financial Technologies is a digital payments startup serving 7,000+ customers across subscription-based financial products. The business had no clear picture of why customers were leaving or what it was costing them — specifically *who* was leaving, *why*, or *what it was costing the business*.
 
-**I was tasked with answering three questions before the Q3 board meeting:**
+**I focused on three core questions:**
 1. How bad is our churn problem, and what is it costing us?
 2. Which customer segments are at highest risk?
 3. What should we do about it?
@@ -97,8 +97,6 @@ novapay-churn-analysis/
 ├── dashboard/
 │   ├── novapay_powerbi.pbix
 │   └── screenshots/
-├── docs/
-│   └── executive_summary.pdf
 └── README.md
 ```
 
@@ -116,6 +114,6 @@ novapay-churn-analysis/
 
 ## About This Project
 
-This project was built as part of a data analyst portfolio sprint to demonstrate end-to-end analytics skills — from raw data to executive recommendations. The dataset was sourced from Kaggle and rebranded to simulate a real FinTech company scenario.
+I built this to simulate real-world FinTech analysis — working through the full pipeline from raw data to executive recommendations. The dataset was sourced from Kaggle and rebranded to simulate a real FinTech company scenario.
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/akhimismail)· [GitHub](https://github.com/akhimismail)
