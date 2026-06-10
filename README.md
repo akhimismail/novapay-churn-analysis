@@ -7,7 +7,7 @@
 
 ## Business Problem
 
-NovaPay Financial Technologies is a digital payments startup serving 7,000+ customers across subscription-based financial products. The business had no clear picture of why customers were leaving or what it was costing them — specifically *who* was leaving, *why*, or *what it was costing the business*.
+NovaPay Financial Technologies is a digital payments startup serving 7,000+ customers across subscription-based financial products. The business had no clear picture of who was leaving, why they were leaving, or what it was costing them.
 
 **I focused on three core questions:**
 1. How bad is our churn problem, and what is it costing us?
@@ -123,6 +123,6 @@ novapay-churn-analysis/
 
 ## About This Project
 
-I built this to simulate real-world FinTech analysis — working through the full pipeline from raw data to executive recommendations. The dataset was sourced from Kaggle and rebranded to simulate a real FinTech company scenario.
+I built this to simulate real-world FinTech analysis — working through the full pipeline from raw data to executive recommendations. The dataset is sourced from Kaggle's IBM Telco Churn dataset, rebranded as NovaPay for realistic business context.
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/akhimismail)· [GitHub](https://github.com/akhimismail)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/akhimismail) · [GitHub](https://github.com/akhimismail)
