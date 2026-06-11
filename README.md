@@ -34,7 +34,7 @@ NovaPay Financial Technologies is a digital payments startup serving 7,000+ cust
 ## Dataset
 
 - **Source:** IBM Telco Customer Churn Dataset (Kaggle)
-- Note: The dataset was rebranded as NovaPay Financial Technologies to simulate a realistic FinTech customer retention engagement.
+- **Note:** The dataset was rebranded as NovaPay Financial Technologies to simulate a realistic FinTech customer retention engagement.
 - **Size:** 7,043 customers · 21 features
 - **Key fields:** Tenure, contract type, monthly charges, payment method, churn label
 - **Rebranded as:** NovaPay Financial Technologies for portfolio context
