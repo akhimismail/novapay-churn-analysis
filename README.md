@@ -4,21 +4,37 @@
 **Domain:** FinTech · Customer Analytics · Revenue Intelligence
 
 ---
+## Executive Summary
+
+NovaPay lacked visibility into the financial impact of customer churn and the customer segments driving revenue loss.
+
+Using PostgreSQL, Excel, and Power BI, I analyzed 7,043 customer records to quantify revenue exposure, identify high-risk customer segments, and develop data-driven retention strategies.
+
+### Key Results
+
+- Identified a 26.5% customer churn rate
+- Quantified $139K monthly recurring revenue at risk
+- Found month-to-month customers churn at nearly 14x the rate of two-year contract customers
+- Identified a potential $28K monthly revenue recovery opportunity through targeted retention initiatives
+
+---
 
 ## Business Problem
 
 NovaPay Financial Technologies is a digital payments startup serving 7,000+ customers across subscription-based financial products. The business had no clear picture of who was leaving, why they were leaving, or what it was costing them.
 
-**I focused on three core questions:**
-1. How bad is our churn problem, and what is it costing us?
-2. Which customer segments are at highest risk?
-3. What should we do about it?
+**I focused on three business-critical questions:**
+
+1. What level of revenue exposure is customer churn creating?
+2. Which customer segments contribute most to revenue loss?
+3. Which retention initiatives offer the greatest business impact?
 
 ---
 
 ## Dataset
 
-- **Source:** IBM Telco Customer Churn Dataset (via Kaggle)
+- **Source:** IBM Telco Customer Churn Dataset (Kaggle)
+Note: The dataset was rebranded as NovaPay Financial Technologies to simulate a realistic FinTech customer retention engagement.
 - **Size:** 7,043 customers · 21 features
 - **Key fields:** Tenure, contract type, monthly charges, payment method, churn label
 - **Rebranded as:** NovaPay Financial Technologies for portfolio context
@@ -28,7 +44,13 @@ NovaPay Financial Technologies is a digital payments startup serving 7,000+ cust
 ## Methodology
 
 ```
-Raw Data → Data Cleaning → SQL Analysis → Business Insights → Dashboard → Recommendations
+Business Problem
+→ Data Preparation
+→ Customer Segmentation Analysis
+→ Revenue Risk Assessment
+→ CLV Analysis
+→ Executive Dashboard Development
+→ Strategic Recommendations
 ```
 
 ---
@@ -84,6 +106,20 @@ Eight business questions answered in PostgreSQL. Full queries in `/sql/churn_ana
 | Migrate 30% of e-check users to auto-pay | ~15% churn reduction in that segment |
 | Improve 0–12 month retention by 10% | Significant CLV uplift across entire customer base |
 
+## Financial Impact Analysis
+
+### Revenue Exposure
+
+- Monthly Revenue at Risk: $139K
+- Annual Revenue at Risk: $1.67M
+
+### Revenue Recovery Opportunity
+
+If NovaPay recovers 20% of churned revenue:
+
+- Monthly Revenue Recovery: $28K
+- Annual Revenue Recovery: $336K
+
 ---
 
 ## Repository Structure
@@ -121,8 +157,24 @@ novapay-churn-analysis/
 
 ---
 
+
+## Skills Demonstrated
+
+- SQL Analytics
+- Customer Segmentation
+- Revenue Analytics
+- Churn Analysis
+- Customer Lifetime Value (CLV)
+- Revenue Risk Assessment
+- Executive Dashboard Reporting
+- Business Intelligence
+- Data-Driven Decision Making
+
+---
+
+
 ## About This Project
 
-I built this to simulate real-world FinTech analysis — working through the full pipeline from raw data to executive recommendations. The dataset is sourced from Kaggle's IBM Telco Churn dataset, rebranded as NovaPay for realistic business context.
+This project simulates a real-world FinTech customer retention engagement focused on quantifying revenue risk, identifying high-value churn drivers, and supporting executive decision-making through data-driven recommendations. The dataset is sourced from Kaggle's IBM Telco Churn dataset, rebranded as NovaPay for realistic business context.
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/akhimismail) · [GitHub](https://github.com/akhimismail)
